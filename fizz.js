@@ -20,3 +20,5 @@ document.write(i);
 }
 document.write("<br/>");
 }
+
+Console.log("Testing git");
